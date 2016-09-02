@@ -1,0 +1,6 @@
+name: CKEditor widget plugin
+type: module
+description: Provides CKEditor widget plugin.
+core: 8.x
+dependencies:
+  - ckeditor
